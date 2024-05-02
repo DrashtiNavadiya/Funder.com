@@ -70,7 +70,7 @@ Funder.com is a user-friendly React project that empowers small startups and inv
 ![Comment Section](./screenshots/Comment%20Section.png)
 
 #
-## Author : Bhautik Koshiya [(Github Profile)](https://github.com/BhautikKoshiya)
+## Author : Drashti Navadiya [(Github Profile)](https://github.com/DrashtiNavadiya/)
 
 ## Documentation
 
